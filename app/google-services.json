@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025856007371",
+    "project_id": "elieproject",
+    "storage_bucket": "elieproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025856007371:android:d41d7433c725f447333f4e",
+        "android_client_info": {
+          "package_name": "com.example.myfragmaentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025856007371-te6t65pcf501ah1svhasvk7t3kp90eid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVNl7ntD4APC1Rs56JH3US2JKl6bEO9Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025856007371-te6t65pcf501ah1svhasvk7t3kp90eid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
